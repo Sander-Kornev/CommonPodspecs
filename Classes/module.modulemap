@@ -1,0 +1,5 @@
+//module SwiftIndoorsSDK [system] {
+//  header "/Users/Sander/Desktop/Projects/MallAppProject/Modules/SKNavigationModule/IndoorsSDK.framework/Headers/Indoors.h"
+////    header "../Pods/IndoorsSDK-iOS/IndoorsSDK.framework/Headers/Indoors.h"
+//  export *
+//}
